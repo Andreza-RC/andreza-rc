@@ -6,4 +6,4 @@ Me chamo Andreza Rodrigues de Carvalho, tenho 25 anos e sou natural de  Brasíli
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreza-rc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Andreza's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreza-rc&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
