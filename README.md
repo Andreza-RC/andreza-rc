@@ -1,6 +1,6 @@
 # 👩‍💻 Andreza Rodrigues de Carvalho
 
-Olá! Me chamo Andreza Rodrigues de Carvalho, tenho 25 anos e sou natural de Brasília - DF.
+Olá! Me chamo Andreza Rodrigues de Carvalho, tenho 26 anos e sou natural de Brasília - DF.
 
 Possuo Ensino Médio completo e formação técnica em Administração. Atualmente curso Ciência da Computação no CEUB.
 
